@@ -15,8 +15,14 @@ Fast and easy to use from the terminal.
 
 How to Use :
 
+
 git clone https://github.com/ahmed252023/Scrape_Browser.git
+
 cd bing-search-scraper
+
 pip install -r requirements.txt
+
 playwright install
+
 python scrape_bing.py
+
